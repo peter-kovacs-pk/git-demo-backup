@@ -3,3 +3,4 @@ Modified line
 Change on branch1
 Change on branch feature
 Second change on branch feature
+master commit line
